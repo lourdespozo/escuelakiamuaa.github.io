@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ESCUELA KIAMUAÁ</title>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display&display=swap" rel="stylesheet">
+
+<style>
+
+body { 
+  font-family: 'Open Sans', Arial, sans-serif; 
+  background:#f0f2f5; 
+  text-align:center; 
+  margin:0; 
+}
+
+h2 { 
+  font-family: 'Playfair Display', serif; 
+}
+
+header img { 
+  width:150px; 
+  margin:20px auto; 
+  display:block; 
+}
+
+nav { 
+  background:#1a73e8; 
+  padding:10px 0; 
+}
+
+nav a { 
+  color:white; 
+  margin:0 15px; 
+  text-decoration:none; 
+  font-weight:bold; 
+}
+
+nav a:hover { 
+  text-decoration:underline; 
+}
+
+section { 
+  background:white; 
+  max-width:600px; 
+  margin:20px auto; 
+  padding:20px; 
+  border-radius:10px; 
+}
+
+button { 
+  background:#25D366; 
+  color:white; 
+  border:none; 
+  padding:10px 20px; 
+  border-radius:5px; 
+  cursor:pointer; 
+}
+
+button:hover { 
+  background:#128c7e; 
+}
+
+img.file { 
+  max-width:100%; 
+  margin-top:10px; 
+}
+
+audio { 
+  margin-top:10px; 
+  width:100%; 
+}
+</style>
+</head>
+<body>
+
+<header>
+  <img src="TU_LOGO.png" alt="Logo">
+</header>
+
+<nav>
+  <a href="#inicio">Inicio</a>
+  <a href="#categorias">Categorías</a>
+  <a href="#contacto">Contacto</a>
+  <a href="#buscar">🔍</a>
+</nav>
+
+<section id="inicio">
+  <h2>SANACIÓN CUÁNTICA Y EL DESPERTAR DE TU CONSCIENCIA MULTIDIMENSIONAL</h2>
+ 
+  <p>Un espacio sagrado de acompañamiento espiritual para el recuerdo ancestral, la sanación profunda y la activación de tu poder creador.
+
+GRACIAS POR ESTAR AQUÍ.
+
+ALMA es un templo de experiencia, transformación y trascendencia donde la vibración del amor despierta tu verdadera esencia.
+
+CONSCIENCIA es el eje de la experiencia en la unión interna del femenino y el masculino; somos la fuerza del corazón, amor en acción.</p>
+</section>
+
+<!-- CATEGORÍAS -->
+<section id="categorias">
+  <h2>Categorías</h2>
